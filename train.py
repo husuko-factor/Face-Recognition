@@ -8,6 +8,9 @@ import pandas as pd
 encoding_file_path = './encoded-images-data.csv'
 labels_fName = 'labels.pkl'
 
+
+
+
 if os.path.isfile(encoding_file_path):
     df = pd.read_csv(encoding_file_path)
 else:
