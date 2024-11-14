@@ -29,9 +29,6 @@ The model has an accuracy of 99.38% on the [Labeled Faces in the Wild](http://vi
             $ sudo python setup.py install
         ```
 
-## Result:
-<img src='https://user-images.githubusercontent.com/17249362/28241776-a45a5eb0-69b8-11e7-9024-2a7a776914e6.gif' width='700px'>
-
 ## Procedure:
 
 - Clone this repository `git clone git@github.com:anubhavshrimal/FaceRecognition.git`.
